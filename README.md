@@ -23,6 +23,7 @@ This Grinch bot compete with manual consumer upon checkout speed, help user secu
 
 # What's next? 
   - [] Increase checkout speed
+  - [] complete the login module [currently maintaining so empty]
   - [] Implement Proxy
   - [] Maintain the bot
   - [] More user friendly when it comes to productID as well as size number
